@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Path
   - PathMarker
+  - Collectable
   layers:
   - Default
   - TransparentFX

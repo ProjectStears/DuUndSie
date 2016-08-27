@@ -23,7 +23,7 @@ GameObject:
   - 199: {fileID: 199000012173539278}
   - 114: {fileID: 114000012262528892}
   m_Layer: 0
-  m_Name: Particle System
+  m_Name: Collect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
