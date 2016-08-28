@@ -40,15 +40,15 @@ public class PlayerMovement : MonoBehaviour
 
             if (inputTimer > 0)
             {
-                if (Input.GetAxis("Horizontal") > 0.8)
+                if (Input.GetAxis("Horizontal") > 0)
                 {
-                    currentLane = Mathf.Clamp(++currentLane, 1, 3);
+                    GoRight();
                     inputTimer = -Config.InputRepeatDelay;
                 }
 
-                if (Input.GetAxis("Horizontal") < -0.8)
+                if (Input.GetAxis("Horizontal") < 0)
                 {
-                    currentLane = Mathf.Clamp(--currentLane, 1, 3);
+                    GoLeft();
                     inputTimer = -Config.InputRepeatDelay;
                 }
             }
@@ -60,6 +60,14 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
+    public void GoLeft()
+    {
+        currentLane = Mathf.Clamp(--currentLane, 1, 3);
+    }
 
+    public void GoRight()
+    {
+        currentLane = Mathf.Clamp(++currentLane, 1, 3);
+    }
 
 }

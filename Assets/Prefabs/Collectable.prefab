@@ -123,7 +123,8 @@ MonoBehaviour:
   Fuel: 1
   Oxygen: 2
   Energy: 3
-  DeathParticleSystem: {fileID: 0}
+  DeathParticleSystem: {fileID: 198000012264816828, guid: 26791c76c927d614890332bb50767f98,
+    type: 2}
 --- !u!135 &135000010809864636
 SphereCollider:
   m_ObjectHideFlags: 1
