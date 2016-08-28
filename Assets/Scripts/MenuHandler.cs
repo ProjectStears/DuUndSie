@@ -5,6 +5,24 @@ using UnityEngine.SceneManagement;
 
 public class MenuHandler : MonoBehaviour {
 
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+
+            if (SceneManager.GetActiveScene().name == "Default")
+            {
+                SceneManager.LoadScene("Start");
+            }
+
+            if (SceneManager.GetActiveScene().name == "Start")
+            {
+                QuitGame();
+            }
+        }
+    }
+
+
     public void StartGame()
     {
         SceneManager.LoadScene("Default");
@@ -12,6 +30,7 @@ public class MenuHandler : MonoBehaviour {
 
     public void QuitGame()
     {
+        Debug.Log("Quitting!");
         Application.Quit();
     }
 
