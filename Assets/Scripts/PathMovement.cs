@@ -11,6 +11,8 @@ public class PathMovement : MonoBehaviour {
 
     private float travelTime;
 
+    private bool gogogo = true;
+
 	// Use this for initialization
 	void Start () {
         pathRoot = GameObject.FindGameObjectWithTag("Path");
@@ -33,7 +35,7 @@ public class PathMovement : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-	    if (currentPathTarget < pathElements.Count)
+	    if (currentPathTarget < pathElements.Count && gogogo)
 	    {
 	        Transform startPathTarget = pathElements[currentPathTarget - 1];
 	        Transform endPathTarget = pathElements[currentPathTarget];
@@ -64,4 +66,9 @@ public class PathMovement : MonoBehaviour {
 	    }
 
 	}
+
+    public void Stop()
+    {
+        gogogo = false;
+    }
 }

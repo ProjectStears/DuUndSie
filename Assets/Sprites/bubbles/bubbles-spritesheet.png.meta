@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: a29d6dc15126c454f97ee8c934076653
+timeCreated: 1472422828
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bubbles-spritesheet_0
+    21300002: bubbles-spritesheet_1
+    21300004: bubbles-spritesheet_2
+    21300006: bubbles-spritesheet_3
+    21300008: bubbles-spritesheet_4
+    21300010: bubbles-spritesheet_5
+    21300012: bubbles-spritesheet_6
+    21300014: bubbles-spritesheet_7
+    21300016: bubbles-spritesheet_8
+    21300018: bubbles-spritesheet_9
+    21300020: bubbles-spritesheet_10
+    21300022: bubbles-spritesheet_11
+    21300024: bubbles-spritesheet_12
+    21300026: bubbles-spritesheet_13
+    21300028: bubbles-spritesheet_14
+    21300030: bubbles-spritesheet_15
+    21300032: bubbles-spritesheet_16
+    21300034: bubbles-spritesheet_17
+    21300036: bubbles-spritesheet_18
+    21300038: bubbles-spritesheet_19
+    21300040: bubbles-spritesheet_20
+    21300042: bubbles-spritesheet_21
+    21300044: bubbles-spritesheet_22
+    21300046: bubbles-spritesheet_23
+    21300048: bubbles-spritesheet_24
+    21300050: bubbles-spritesheet_25
+    21300052: bubbles-spritesheet_26
+    21300054: bubbles-spritesheet_27
+    21300056: bubbles-spritesheet_28
+    21300058: bubbles-spritesheet_29
+    21300060: bubbles-spritesheet_30
+    21300062: bubbles-spritesheet_31
+    21300064: bubbles-spritesheet_32
+    21300066: bubbles-spritesheet_33
+    21300068: bubbles-spritesheet_34
+    21300070: bubbles-spritesheet_35
+    21300072: bubbles-spritesheet_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bubbles-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3855
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3855
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3855
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3855
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 3855
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 3855
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 3855
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3084
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3084
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3084
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3084
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 3084
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 3084
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 3084
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2313
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2313
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2313
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2313
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2313
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2313
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 2313
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1542
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1542
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1542
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1542
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1542
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1542
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1542
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 771
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 771
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 771
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 771
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 771
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 771
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bubbles-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 229
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

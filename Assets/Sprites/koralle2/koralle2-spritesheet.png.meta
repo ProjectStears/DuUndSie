@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: 1f2f2265cb045ce4a8ddef5f211d0fce
+timeCreated: 1472422959
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: koralle2-spritesheet_0
+    21300002: koralle2-spritesheet_1
+    21300004: koralle2-spritesheet_2
+    21300006: koralle2-spritesheet_3
+    21300008: koralle2-spritesheet_4
+    21300010: koralle2-spritesheet_5
+    21300012: koralle2-spritesheet_6
+    21300014: koralle2-spritesheet_7
+    21300016: koralle2-spritesheet_8
+    21300018: koralle2-spritesheet_9
+    21300020: koralle2-spritesheet_10
+    21300022: koralle2-spritesheet_11
+    21300024: koralle2-spritesheet_12
+    21300026: koralle2-spritesheet_13
+    21300028: koralle2-spritesheet_14
+    21300030: koralle2-spritesheet_15
+    21300032: koralle2-spritesheet_16
+    21300034: koralle2-spritesheet_17
+    21300036: koralle2-spritesheet_18
+    21300038: koralle2-spritesheet_19
+    21300040: koralle2-spritesheet_20
+    21300042: koralle2-spritesheet_21
+    21300044: koralle2-spritesheet_22
+    21300046: koralle2-spritesheet_23
+    21300048: koralle2-spritesheet_24
+    21300050: koralle2-spritesheet_25
+    21300052: koralle2-spritesheet_26
+    21300054: koralle2-spritesheet_27
+    21300056: koralle2-spritesheet_28
+    21300058: koralle2-spritesheet_29
+    21300060: koralle2-spritesheet_30
+    21300062: koralle2-spritesheet_31
+    21300064: koralle2-spritesheet_32
+    21300066: koralle2-spritesheet_33
+    21300068: koralle2-spritesheet_34
+    21300070: koralle2-spritesheet_35
+    21300072: koralle2-spritesheet_36
+    21300074: koralle2-spritesheet_37
+    21300076: koralle2-spritesheet_38
+    21300078: koralle2-spritesheet_39
+    21300080: koralle2-spritesheet_40
+    21300082: koralle2-spritesheet_41
+    21300084: koralle2-spritesheet_42
+    21300086: koralle2-spritesheet_43
+    21300088: koralle2-spritesheet_44
+    21300090: koralle2-spritesheet_45
+    21300092: koralle2-spritesheet_46
+    21300094: koralle2-spritesheet_47
+    21300096: koralle2-spritesheet_48
+    21300098: koralle2-spritesheet_49
+    21300100: koralle2-spritesheet_50
+    21300102: koralle2-spritesheet_51
+    21300104: koralle2-spritesheet_52
+    21300106: koralle2-spritesheet_53
+    21300108: koralle2-spritesheet_54
+    21300110: koralle2-spritesheet_55
+    21300112: koralle2-spritesheet_56
+    21300114: koralle2-spritesheet_57
+    21300116: koralle2-spritesheet_58
+    21300118: koralle2-spritesheet_59
+    21300120: koralle2-spritesheet_60
+    21300122: koralle2-spritesheet_61
+    21300124: koralle2-spritesheet_62
+    21300126: koralle2-spritesheet_63
+    21300128: koralle2-spritesheet_64
+    21300130: koralle2-spritesheet_65
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: koralle2-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2800
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2800
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2800
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2800
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2800
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2800
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2800
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2450
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2450
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2450
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2450
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2450
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2450
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2450
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2100
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2100
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2100
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2100
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2100
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2100
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2100
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1750
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1750
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1750
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1750
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1750
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1750
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1750
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1400
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1400
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1400
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1400
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1400
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1400
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1400
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1050
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1050
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1050
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1050
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1050
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1050
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1050
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 700
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 700
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 700
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 700
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 700
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 700
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 700
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 350
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 350
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 350
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 350
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 350
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 350
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 350
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: koralle2-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

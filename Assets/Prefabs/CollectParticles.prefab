@@ -21,6 +21,7 @@ GameObject:
   - 4: {fileID: 4000013160387194}
   - 198: {fileID: 198000012264816828}
   - 199: {fileID: 199000010868451050}
+  - 114: {fileID: 114000011721410980}
   m_Layer: 0
   m_Name: CollectParticles
   m_TagString: Untagged
@@ -41,6 +42,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+--- !u!114 &114000011721410980
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011131213320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0c46ccc98210b742955a56ccfd2853f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timer: 2
 --- !u!198 &198000012264816828
 ParticleSystem:
   m_ObjectHideFlags: 1

@@ -3,7 +3,11 @@ using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-public class MenuHandler : MonoBehaviour {
+public class MenuHandler : MonoBehaviour
+{
+
+    public RectTransform StartCanvas;
+    public RectTransform AboutCanvas;
 
     void Update()
     {
@@ -36,11 +40,20 @@ public class MenuHandler : MonoBehaviour {
 
     public void ShowAbout()
     {
-        //switch to About canvas
+        if (AboutCanvas != null && StartCanvas != null)
+        {
+            AboutCanvas.gameObject.SetActive(true);
+            StartCanvas.gameObject.SetActive(false);
+        }
+
     }
     public void ShowStart()
     {
-        //switch to Start canvas
+        if (AboutCanvas != null && StartCanvas != null)
+        {
+            AboutCanvas.gameObject.SetActive(false);
+            StartCanvas.gameObject.SetActive(true);
+        }
     }
 
 

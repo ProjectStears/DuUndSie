@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: 6a7f09c101bbec4469daf2f6c28802b7
+timeCreated: 1472422415
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alge-spritesheet_0
+    21300002: alge-spritesheet_1
+    21300004: alge-spritesheet_2
+    21300006: alge-spritesheet_3
+    21300008: alge-spritesheet_4
+    21300010: alge-spritesheet_5
+    21300012: alge-spritesheet_6
+    21300014: alge-spritesheet_7
+    21300016: alge-spritesheet_8
+    21300018: alge-spritesheet_9
+    21300020: alge-spritesheet_10
+    21300022: alge-spritesheet_11
+    21300024: alge-spritesheet_12
+    21300026: alge-spritesheet_13
+    21300028: alge-spritesheet_14
+    21300030: alge-spritesheet_15
+    21300032: alge-spritesheet_16
+    21300034: alge-spritesheet_17
+    21300036: alge-spritesheet_18
+    21300038: alge-spritesheet_19
+    21300040: alge-spritesheet_20
+    21300042: alge-spritesheet_21
+    21300044: alge-spritesheet_22
+    21300046: alge-spritesheet_23
+    21300048: alge-spritesheet_24
+    21300050: alge-spritesheet_25
+    21300052: alge-spritesheet_26
+    21300054: alge-spritesheet_27
+    21300056: alge-spritesheet_28
+    21300058: alge-spritesheet_29
+    21300060: alge-spritesheet_30
+    21300062: alge-spritesheet_31
+    21300064: alge-spritesheet_32
+    21300066: alge-spritesheet_33
+    21300068: alge-spritesheet_34
+    21300070: alge-spritesheet_35
+    21300072: alge-spritesheet_36
+    21300074: alge-spritesheet_37
+    21300076: alge-spritesheet_38
+    21300078: alge-spritesheet_39
+    21300080: alge-spritesheet_40
+    21300082: alge-spritesheet_41
+    21300084: alge-spritesheet_42
+    21300086: alge-spritesheet_43
+    21300088: alge-spritesheet_44
+    21300090: alge-spritesheet_45
+    21300092: alge-spritesheet_46
+    21300094: alge-spritesheet_47
+    21300096: alge-spritesheet_48
+    21300098: alge-spritesheet_49
+    21300100: alge-spritesheet_50
+    21300102: alge-spritesheet_51
+    21300104: alge-spritesheet_52
+    21300106: alge-spritesheet_53
+    21300108: alge-spritesheet_54
+    21300110: alge-spritesheet_55
+    21300112: alge-spritesheet_56
+    21300114: alge-spritesheet_57
+    21300116: alge-spritesheet_58
+    21300118: alge-spritesheet_59
+    21300120: alge-spritesheet_60
+    21300122: alge-spritesheet_61
+    21300124: alge-spritesheet_62
+    21300126: alge-spritesheet_63
+    21300128: alge-spritesheet_64
+    21300130: alge-spritesheet_65
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alge-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1608
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1608
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1608
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1608
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1608
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1608
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1608
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1407
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1407
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1407
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1407
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1407
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1407
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1407
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1206
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1206
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1206
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1206
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1206
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1206
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1206
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1005
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1005
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1005
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1005
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1005
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1005
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1005
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 804
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 804
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 804
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 804
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 804
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 804
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 804
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 603
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 603
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 603
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 603
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 603
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 603
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 603
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 402
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 402
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 402
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 402
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 402
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 402
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 402
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 201
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 201
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 201
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 201
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 201
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 201
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 201
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alge-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

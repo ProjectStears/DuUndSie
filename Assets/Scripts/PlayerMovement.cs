@@ -18,13 +18,13 @@ public class PlayerMovement : MonoBehaviour
         switch (currentLane)
         {
             case 1:
-                this.transform.localPosition = Vector3.left*Config.laneOffset;
+                this.transform.localPosition = Vector3.left*Config.laneOffset + Vector3.up;
                 break;
             case 2:
-                this.transform.localPosition = Vector3.zero;
+                this.transform.localPosition = Vector3.zero + Vector3.up;
                 break;
             case 3:
-                this.transform.localPosition = Vector3.right*Config.laneOffset;
+                this.transform.localPosition = Vector3.right*Config.laneOffset + Vector3.up;
                 break;
             default:
                 this.transform.localPosition = Vector3.up;
