@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: fd2357ca4ce594f4c95bcaa1c48b2bc8
+timeCreated: 1472409446
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frontalfisch_0
+    21300002: frontalfisch_1
+    21300004: frontalfisch_2
+    21300006: frontalfisch_3
+    21300008: frontalfisch_4
+    21300010: frontalfisch_5
+    21300012: frontalfisch_6
+    21300014: frontalfisch_7
+    21300016: frontalfisch_8
+    21300018: frontalfisch_9
+    21300020: frontalfisch_10
+    21300022: frontalfisch_11
+    21300024: frontalfisch_12
+    21300026: frontalfisch_13
+    21300028: frontalfisch_14
+    21300030: frontalfisch_15
+    21300032: frontalfisch_16
+    21300034: frontalfisch_17
+    21300036: frontalfisch_18
+    21300038: frontalfisch_19
+    21300040: frontalfisch_20
+    21300042: frontalfisch_21
+    21300044: frontalfisch_22
+    21300046: frontalfisch_23
+    21300048: frontalfisch_24
+    21300050: frontalfisch_25
+    21300052: frontalfisch_26
+    21300054: frontalfisch_27
+    21300056: frontalfisch_28
+    21300058: frontalfisch_29
+    21300060: frontalfisch_30
+    21300062: frontalfisch_31
+    21300064: frontalfisch_32
+    21300066: frontalfisch_33
+    21300068: frontalfisch_34
+    21300070: frontalfisch_35
+    21300072: frontalfisch_36
+    21300074: frontalfisch_37
+    21300076: frontalfisch_38
+    21300078: frontalfisch_39
+    21300080: frontalfisch_40
+    21300082: frontalfisch_41
+    21300084: frontalfisch_42
+    21300086: frontalfisch_43
+    21300088: frontalfisch_44
+    21300090: frontalfisch_45
+    21300092: frontalfisch_46
+    21300094: frontalfisch_47
+    21300096: frontalfisch_48
+    21300098: frontalfisch_49
+    21300100: frontalfisch_50
+    21300102: frontalfisch_51
+    21300104: frontalfisch_52
+    21300106: frontalfisch_53
+    21300108: frontalfisch_54
+    21300110: frontalfisch_55
+    21300112: frontalfisch_56
+    21300114: frontalfisch_57
+    21300116: frontalfisch_58
+    21300118: frontalfisch_59
+    21300120: frontalfisch_60
+    21300122: frontalfisch_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frontalfisch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1862
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1862
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1862
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_3
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1862
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_4
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1862
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_5
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1862
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_6
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1862
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_7
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1862
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1596
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_10
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1596
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_11
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1596
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_12
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1596
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_13
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1596
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_14
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1596
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_15
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1596
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1330
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1330
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_18
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1330
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_19
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1330
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_20
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1330
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_21
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1330
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_22
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1330
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_23
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1330
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1064
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_26
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1064
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_27
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1064
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_28
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1064
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_29
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1064
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_30
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1064
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_31
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1064
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_33
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 798
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_34
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 798
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_35
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 798
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_36
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 798
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_37
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 798
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_38
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 798
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_39
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 798
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 532
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_42
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 532
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_43
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 532
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_44
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 532
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_45
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 532
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_46
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 532
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_47
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 532
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_49
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 266
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_50
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 266
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_51
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 266
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_52
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 266
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_53
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 266
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_54
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 266
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_55
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 266
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_57
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_58
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_59
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 0
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_60
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: frontalfisch_61
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
